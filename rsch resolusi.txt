@@ -1,6 +1,6 @@
 rencana RSCH
 - Membuat website rsch
 - mengupdate content websitenya
-- buat foto yang bagus
 - buat daftar pasien online 
 - buat no antrian
+- buat vlog
